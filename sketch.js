@@ -204,7 +204,7 @@ function draw() {
   bbbb16.display()
   textSize(30)
   fill("darkblue")
-  text("Drag the circular body to hit the blocks",400,50)
+  text("Drag the object to hit the blocks",400,50)
   text("Press 'SPACE KEY' to get a second chance",400,500)
 
 }
